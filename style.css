@@ -1,0 +1,9 @@
+body{
+    background-color:aqua;
+}
+.book-card {
+    border: 1px solid tomato;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
